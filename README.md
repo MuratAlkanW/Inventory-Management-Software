@@ -1,4 +1,4 @@
-# Stock Management Software
+# Inverntory Management Software
 It is WPF application (.NET Framework) to track your products and to manage your inventory. (Source codes will be uploaded later)
 
 # Login Window | Turkish
