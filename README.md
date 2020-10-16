@@ -5,4 +5,4 @@ It is WPF application (.NET Framework) to track your products and to manage your
 ![Login](https://images2.imgbox.com/11/34/Cbds5jOP_o.png)
 
 # Main Window | Turkish
-![Main](https://images2.imgbox.com/64/2b/oMHjzqnL_o.png)
+![Main](https://images2.imgbox.com/88/40/comW9MVk_o.png)
